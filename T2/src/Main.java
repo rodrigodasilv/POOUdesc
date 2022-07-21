@@ -1,6 +1,5 @@
 public class Main {
-    public static void main(String[] args){
-        ConexaoThread t = new ConexaoThread();
-        t.start();
+    public static void main(String[] args) {
+        GoogleTalker Fofoqueiro = new GoogleTalker();
     }
 }
